@@ -1,4 +1,4 @@
-# Java Concepts Covered
+# Java Concepts Covered #JavaExpert
 
 This repository covers various Java programming concepts and design patterns. Each topic folder contains code examples and explanations related to that particular concept or pattern.
 
